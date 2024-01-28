@@ -21,3 +21,4 @@ balance.
 of their transactions.
 
 * This is how it runs👀
+https://github.com/Akshad-21/CODSOFT_ATMinterface/assets/156450300/5a62c132-e13f-43f7-987f-3a19e2188548
